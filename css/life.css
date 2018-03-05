@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 580064 */
+  src: url('https://at.alicdn.com/t/font_580064_cjdjlxrrj48qto6r.eot');
+  src: url('https://at.alicdn.com/t/font_580064_cjdjlxrrj48qto6r.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_580064_cjdjlxrrj48qto6r.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_580064_cjdjlxrrj48qto6r.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_580064_cjdjlxrrj48qto6r.svg#iconfont') format('svg');
+}
+
+.header1{
+	background-color: #EFEFF4;
+}
+.content1{
+	margin-top: 50px;
+}
+.jiantou{
+	width: 32px;
+	height: 32px;
+	margin: 1px 2px;
+	float: left;
+}
+.jiantou span{
+	display: block;
+	font-size: 30px;
+	color: #BBBBBE;
+	line-height: 32px;
+}
+.header2{
+	width: 215px;
+	height: 27px;
+	margin: 0 auto;
+	margin-top: 11.5px;
+}
+.love_life{
+	font-size: 17px;
+	text-align: center;
+	font-weight: normal;
+}
+.section1{
+	width: 100%;
+	height: 267.55px;
+	background-color: white;
+}
+.section11{
+	height: 583.95px;
+	margin-top: 10px;
+
+}
+.section1_wenzi1{
+	width: 100%;
+	height: 42px;
+	margin:0 auto;
+	
+}
+
+.section1_wenzi1 h2{
+	font-size: 14px;
+    font-weight: normal;
+    padding: 10px 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.life_img1{
+	width: 355px;
+	height: 124.55px;
+	margin:0 auto;
+	margin-left: 10px;
+}
+.life_img1 img{
+	width: 355px;
+	height: 124.55px;
+}
+
+.aui-content-p{
+	width: 100%;
+	height: 43px;
+	margin-top:10px;
+	
+}
+.aui-content-p p{
+	color: #666;
+    font-size: 14px;
+    padding: 1px 10px 0 10px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: break-all;
+    overflow: hidden;
+}
+.gn{
+	width:100%;
+	height: 48px;
+}
+.dianzan_t{
+	float: left;
+	font-family: 'iconfont';
+	font-size: 16px;
+	margin-left: 20px;
+	margin-top:16px;
+	float: left;
+}
+.dianzan{
+	font-weight:normal;
+	font-size: 16px;
+	line-height: 48px;
+	margin-left: 10px;
+	float: left;
+}
+.fengx_t{
+	font-family: 'iconfont';
+	font-size: 16px;
+	margin-right:60px;
+	margin-top:16px;
+	float: right;
+}
+.fengx{
+	font-weight:normal;
+	font-size: 16px;
+	line-height: 48px;
+	margin-right:-60px;
+	float: right;
+}
+.life_img3{
+	width: 355px;
+	height: 209.02px;
+	margin:0 auto;
+	margin-left: 10px;
+}
+.life_img3 img{
+	width: 355px;
+	height: 209.02px;
+}
+.life_img2{
+	width: 355px;
+	height: 221.95px;
+	margin:0 auto;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.life_img2 img{
+	width: 355px;
+	height: 221.95px;
+}

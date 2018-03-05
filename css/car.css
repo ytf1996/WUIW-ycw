@@ -1,0 +1,147 @@
+body{
+	background-color: #EFEFF4;
+}
+.header1{
+	background-color: #EFEFF4;
+}
+	
+.nr{
+	width: 100%;
+	height: 100%;
+	margin-top: 50px;
+	padding-bottom: 49px;
+	background-color: white;
+}
+.jiantou{
+	width: 32px;
+	height: 32px;
+	margin: 1px 2px;
+	float: left;
+}
+.jiantou span{
+	display: block;
+	font-size: 30px;
+	color: #BBBBBE;
+	line-height: 32px;
+}
+.header2{
+	width: 215px;
+	height: 27px;
+	margin: 0 auto;
+	margin-top: 11.5px;
+}
+.love_life{
+	font-size: 17px;
+	font-weight: normal;
+	text-align: center;
+}
+.quanxuan{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	margin:0 auto;
+}
+.circle {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #bab9b9;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin: 15px;
+}
+.quanxuan h1{
+	font-size: 15px;
+	font-weight:normal;
+	line-height: 50px;
+
+}
+.gwc1{
+	width: 100%;
+	height: 124px;
+	background-color:#EFEFF4;
+	padding-top: 12px;
+	margin-top: 4px;
+}
+.gwc1_left{
+	width: 144px;
+	height: 100px;
+	float: left;
+	
+}
+.gwc1_leftdou{
+	width: 44px;
+	height: 100px;
+	float: left;
+	background-color: white;
+}
+.circle1{
+	margin-top:40px;
+	margin-left:10px;
+}
+.gwc1_leftdou_img{
+	width: 100px;
+	height: 100px;
+	margin-left: 44px;
+	margin-top:-75px; 
+	float: left;
+}
+.gwc1_leftdou_img img{
+	width: 100px;
+	height: 100px;
+}
+.gwc1_right{
+	float: right;
+	width:225px;
+	height: 98px;
+	padding-left: 10px;
+}
+.gwc1_right h2{
+	font-weight: normal;
+    font-size: 14px;
+    color: #666;
+}
+.aui-o {
+    color: #999;
+    font-size: 12px;
+}
+.money{
+    margin-top: 10px;
+}
+.aui-redd {
+	font-size: 16px;
+    color: #ff8746;
+    font-style: normal;
+    font-weight: normal;
+}
+.footer{
+	width: 100%;
+	height: auto;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: #EFEFEF;
+}
+.footer_left{
+	width: 187.5px;
+	height: 49px;
+	float: left;
+}
+.footer_left span{
+	display: block;
+	font-size: 16px;
+	margin-left: 10px;
+}
+.footer_right{
+	width: 150px;
+	height: 49px;
+	background-color:#FE8C2E;
+	float: right;
+}
+.footer_right span{
+	font-size: 20px;
+	margin-left: 45px;
+	margin-top: 9.5px;
+	text-align: center;
+	color: white;
+}

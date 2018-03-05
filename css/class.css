@@ -1,0 +1,60 @@
+.header1{
+	background-color: #EFEFF4;
+}
+.jiantou{
+	width: 32px;
+	height: 32px;
+	margin: 1px 2px;
+	float: left;
+}
+.jiantou span{
+	display: block;
+	font-size: 30px;
+	color: #BBBBBE;
+	line-height: 32px;
+}
+.header2{
+	width: 215px;
+	height: 27px;
+	margin: 0 auto;
+	margin-top: 11.5px;
+}
+.love_life{
+	font-size: 17px;
+	text-align: center;
+	font-weight: normal;
+}
+.content6{
+	width: 100%;
+	height: 100%;
+	margin-top: 50px;
+	background-color: #EFEFF4;
+}
+.fenlei{
+	width: 93px;
+	height: 93px;
+	background-color: white;
+	float: left;
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+.fenlei1{
+	margin-right: 0px;
+}
+.nsdp{
+	width:64px;
+	height: 64px;
+	margin:0 auto;
+
+}
+.nsdp img{
+	width:64px;
+	height: 64px;
+}
+.fenlei span{
+	font-weight: normal;
+	font-size: 14px;
+	float: left;
+	margin-left: 16px;
+	line-height:26px;
+}
